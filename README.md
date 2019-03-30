@@ -1,2 +1,2 @@
 # decision_tree
-A decision 🌳 implementation 
+A decision 🌳 implementation of ID3 algorithm. 
